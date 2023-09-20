@@ -24,19 +24,27 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  muss               | funktional     | Als ein Spieler möchte ich mich 2D bewegen können, damit ich ins Ziel komme. |
 | 2  |  muss               | funktional     | Als Spieler möchte ich, dass mich die Kamera verfolgt, damit ich sehe was ich mache.|
-|3|kann|Qualität|Als Spieler möchte ich Münzen im Spiel haben, die ich einsammeln kann, damit ich im Spiel um etwas spielen kann.|
+|3|kann|Qualität|Als Spieler möchte ich Münzen im Spiel haben, die ich einsammeln kann, damit ich im Spiel auf etwas anderes achten muss als Gegner.|
 |4|muss|Funktional|Als Spieler möchte ich Gegner haben, damit das Spiel eine gewisse Schwierigkeit bietet, damit das Spiel nicht langweilig und kurz wird.|
 |5|muss|Funktional|Als Spieler möchte ich eine realistische Gravitation haben, damit ich nicht wegfliege oder ähnlich.|
-|||||
+|6|kann|Rand|Als Spieler möchte ich zusätzlich zu den Gegnern Hindernisse haben, damit ich zusätzlich noch auf die Umgebung aufpassen muss und das Spiel interessanter wird.|
+|7|kann|Qualität|Als Spieler möchte ich Animationen haben, damit das Spiel flüssig aussieht und ich nicht gestört werde, |
+|8|kann|Qualität|Als Spieler möchte ich mit den Münzen etwas kaufen können, damit das Spiel nicht langweilig wird und dass das Geld einen Nutzen hat. |
+|9|muss|Funktional|Als Spieler möchte ich verschiedene Levels spielen können, damit das Spiel nicht immer gleich ist.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 2.2  |              |         |                   |
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
