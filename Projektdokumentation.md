@@ -18,8 +18,6 @@ In unserem Projekt programmieren wir in Unity ein 2D Spiel, welches verschiedene
 
 Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese zugreiffen kann, beziehungsweise spielen kann.
 
-Test
-
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
@@ -28,11 +26,12 @@ Test
 | 2  |  muss               | funktional     | Als Spieler möchte ich, dass mich die Kamera verfolgt, damit ich sehe was ich mache.|
 |3|kann|Qualität|Als Spieler möchte ich Münzen im Spiel haben, die ich einsammeln kann, damit ich im Spiel auf etwas anderes achten muss als Gegner.|
 |4|muss|Funktional|Als Spieler möchte ich Gegner haben, damit das Spiel eine gewisse Schwierigkeit bietet, damit das Spiel nicht langweilig und kurz wird.|
-|5|muss|Funktional|Als Spieler möchte ich eine realistische Gravitation haben, damit ich nicht wegfliege oder ähnlich.|
+|5|muss|Funktional|Als Spieler möchte ich ein Lebenssystem haben, welches mein aktuellen Healthstand anzeigt, damit das Spiel eine Schwierigkeit bietet|
 |6|kann|Rand|Als Spieler möchte ich zusätzlich zu den Gegnern Hindernisse haben, damit ich zusätzlich noch auf die Umgebung aufpassen muss und das Spiel interessanter wird.|
 |7|kann|Qualität|Als Spieler möchte ich Animationen haben, damit das Spiel flüssig aussieht und ich nicht gestört werde, |
 |8|kann|Qualität|Als Spieler möchte ich mit den Münzen etwas kaufen können, damit das Spiel nicht langweilig wird und dass das Geld einen Nutzen hat. |
 |9|muss|Funktional|Als Spieler möchte ich verschiedene Levels spielen können, damit das Spiel nicht immer gleich ist.|
+|10|muss|Funktional|Als Spieler möchte ich Waffen verwenden (mind. 2), damit ich die Gegner besiegen kann.|
 
 
 ### 1.3 Testfälle
@@ -58,8 +57,31 @@ Test
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |18.10       | Mirhan          | Skript für den Player, damit man ihn bewegen kann.             | 60             |
+| 2.A  |18.10       | Lukas          | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt             | 20min              |
+| 3.A  |18.10      |Lukas           |Skript um Münzen einzusammeln.              | 45min              |
+| 7.A  |18.10      | Lukas          |  Animationen hinzufügen            | 45min              |
+| 4.A  |18.10       |  Mirhan         | Gegner für das Spiel erstellen             | 60min              |
+| 5.A  |25.10      |Lukas           | Funktion, damit der Spieler Schaden erleiden kann wie auch sterben.             | 45min              |
+| 6.A  |25.10       | Mirhan          |   Hindernisse hinzufügen           | 45min              |
+| 10.A  |25.10       |  Lukas         | Waffe 1 erstellen             | 45min              |
+| 10.B  | 25.10      | Lukas          | Waffe 2 erstellen             | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
+| 1.A  |       |           |              | 45min              |
 
 Total: 
 
