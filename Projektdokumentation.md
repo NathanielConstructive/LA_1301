@@ -1,7 +1,7 @@
 # Projekt-Dokumentation
 
 Özden, Heiniger
-Mirhan Özden
+
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
@@ -18,7 +18,7 @@ In unserem Projekt programmieren wir in Unity ein 2D Spiel, welches verschiedene
 
 Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese zugreiffen kann, beziehungsweise spielen kann.
 
-Test
+
 
 ### 1.2 User Stories
 
@@ -39,16 +39,16 @@ Test
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| 2.2  |              |         |                   |
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  | Das Spiel lässt den Spieler sich bewegen             |  W,A,S,D       | Spieler bewegt sich dementsprechend |
+| 2.1  |  Spieler bewegt sich und die Kamera verfolgt ihn            |  W.A.S.D (Spieler bewegt sich)      |  Kamera kommt mit                 |
+|3.1|Spieler kann Münzen einsammeln|-|+1 Münze|
+|4.1|Das Level hat Gegner|-|Gegner|
+|5.1|Spiel hat Gravitation|Leertaste oder von einer Ebene gehen|Spieler springt oder fällt|
+|6.1|Hindernisse im Spiel|-|Hindernis|
+|7.1|Animation|Springen(Leertaste), laufen(W,A,S,D, schiessen(Linke Maustaste)|Charakter zeigt Animationen|
+|8.1|Münzen für etwas ausgeben|Mit linksklick kaufen|Ein Objekt im Gegenzug|
+|9.1|Verschiedene Levels|Mit linker Maustaste auswählen|Das Spiel startet|
+|10.1|Waffe im Spiel|Linke Maustaste(Schiessen oder schlagen)|Ein Projektil wird geschossen oder der Charakter schlägt|
 
 ### 1.4 Diagramme
 
