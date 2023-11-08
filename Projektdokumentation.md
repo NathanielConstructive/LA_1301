@@ -86,7 +86,8 @@ Total: 14
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Ich und Lukas haben uns entschieden ein Platformer spiel zu programmieren mithilfe von Unity. Dort kann man Gegner mit einer Waffe erledigen und Münzen einsammeln. 
+Damit man die Gegner nicht einfach so erledigen kann, haben wir uns für Randfeatures entschieden
 
 ## 4 Realisieren
 
