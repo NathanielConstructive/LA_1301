@@ -34,6 +34,9 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 |11|kann|Funktional|Als Spieler möchte ich eine Ammobox, damit ich wieder mit meiner Waffe schiessen kann.|
 |12|kann|Qualität|Als Spieler möchte ich mich in die Richtung drehen, wo auch immer ich schaue, damit ich |
 |13|muss|Funktional|Als Spieler möchte ich einen Restart Knopf, falls ich tot bin, da ich dann das Spiel nochmals spielen möchte.|
+|14|kann|Funktional|Als Spieler möchte ich Granaten werfen, damit ich grosse Mengen an Gegner eliminieren kann.|
+|15|kann|Funktional|Als Spieler möchte ich sprinten können, damit ich das Spiel schneller durch spielen kann.|
+|16|kann|Funktional|Als Spieler möchte ich einen Doublejumb ausführen, damit ich mich vor dem Abgrund retten kann|
 
 
 ### 1.3 Testfälle
@@ -55,6 +58,7 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 
 
 
+
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
@@ -64,15 +68,19 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | 3.A  |18.10      |Lukas           |Skript um Münzen einzusammeln.              | 45min              |
 | 4.A  |18.10       |  Mirhan         | Gegner für das Spiel erstellen             | 60min              |
 | 5.A  |25.10      |Lukas           | Funktion, damit der Spieler Schaden erleiden kann wie auch sterben.             | 45min              |
-| 6.A  |25.10       | Mirhan          |   Hindernisse hinzufügen           | 45min              |
+| 6.A  |25.10       | Lukas         |   Hindernisse hinzufügen           | 45min              |
 | 7.A  |25.10      | Mirhan          |  Animationen hinzufügen            | 45min              |
-|8.A|25.10|Lukas|Kaufsystem|50 Minuten|
+|8.A|25.10|Mirhan|Kaufsystem|50 Minuten|
 |9.A|25.10|Mirhan|Verschiedene Levels|50 Minuten|
 | 10.A  |25.10       |  Lukas         | Waffe 1 erstellen             | 45min              |
 | 10.B  | 25.10      | Lukas          | Waffe 2 erstellen             | 45min              |
 | 11  | 1.11      | Lukas          |   Ammobox programmieren           | 45min              |
 | 12 | 1.11      | Mirhan          | In die Richtung drehen, wo man hinlauft             | 45min              |
 | 13  | 1.11      | Lukas          | Restart Knopf, falls man stirbt             | 45min              |
+|14.A|1.11 | Lukas | Granaten Skript hinzufügen| 45min| 
+|14.B|1.11 | Lukas | Skript für das Werfen der Granate erstellen| 60min| 
+|15.A|1.11| Lukas| Sprintfunktion erstellen| 45|
+|16.A|1.11| Lukas| Doublejumpfunktion erstellen|45|
 
 Total: 14
 
