@@ -81,7 +81,7 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 |14.B|1.11 | Lukas | Skript für das Werfen der Granate erstellen| 60min| 
 |15.A|1.11| Lukas| Sprintfunktion erstellen| 45 min|
 |16.A|1.11| Lukas| Doublejumpfunktion erstellen|45 min|
-|17|1.11/08.11|Mirhan & Lukas|Portfolioeintrag|120 min|
+|17.A|1.11/08.11|Mirhan & Lukas|Portfolioeintrag|120 min|
 
 Total: 18
 
