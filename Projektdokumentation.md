@@ -4,9 +4,10 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 20.9      | 0.0.1   | Anfang |
+| 18.10      | 0.0.2    |  Erste Prototypen                                                            |
+| 25.10      | 0.0.3    |   Erste richtige Version des Spieles                            |
+| 1.11      | 1.0.0   |   Fertiges Spiel                                                           |
 
 ## 1 Informieren
 
