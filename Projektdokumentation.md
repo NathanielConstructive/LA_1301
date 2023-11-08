@@ -65,10 +65,10 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |18.10       | Mirhan          | Skript für den Player, damit man ihn bewegen kann.             | 60             |
 | 2.A  |18.10       | Mirhan          | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt             | 20min              |
-| 3.A  |18.10      |Lukas           |Skript um Münzen einzusammeln.              | 45min              |
+| 3.A  |18.10      |Mirhan           |Skript um Münzen einzusammeln.              | 45min              |
 | 4.A  |18.10       |  Mirhan         | Gegner für das Spiel erstellen             | 60min              |
 | 5.A  |25.10      |Lukas           | Funktion, damit der Spieler Schaden erleiden kann wie auch sterben.             | 45min              |
-| 6.A  |25.10       | Lukas         |   Hindernisse hinzufügen           | 45min              |
+| 6.A  |25.10       | Mirhan         |   Hindernisse hinzufügen           | 45min              |
 | 7.A  |25.10      | Mirhan          |  Animationen hinzufügen            | 45min              |
 |8.A|25.10|Mirhan|Kaufsystem|50 Minuten|
 |9.A|25.10|Mirhan|Verschiedene Levels|50 Minuten|
@@ -87,16 +87,33 @@ Total: 18
 
 ## 3 Entscheiden
 
-Ich und Lukas haben uns entschieden ein Platformer zu programmieren mithilfe von Unity. Man soll im Spiel das Ende erreichen, was sich ganz rechts befindet. Falls man dabei eliminiert wird, haben wir uns entschieden einen Knopf einzufügen, der das Spiel neustartet. Im Spiel selber gibt es Gegner, die dich beim Berühren eliminiert, Spikes die das selbe machen und Münzen die sammelbar sind. Zur Verteidigung steht eine Waffe mit 10 Schüssen zur Verfügung, die durch Munitionsboxen wiederaufgefüllt werden kann.
+Ich und Lukas haben uns entschieden ein Platformer zu programmieren mithilfe von Unity. Man soll im Spiel das Ende erreichen, was sich ganz rechts befindet. Falls man dabei eliminiert wird, haben wir uns entschieden einen Knopf einzufügen, der das Spiel neustartet. Im Spiel selber gibt es Gegner, die dich beim Berühren eliminiert, Spikes die das selbe machen und Münzen die sammelbar sind. Zur Verteidigung steht eine Waffe mit 10 Schüssen zur Verfügung, die durch Munitionsboxen wieder aufgefüllt werden kann.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 18.10      | Mirhan          |   60            |   60                |
+| 2.A  | 18.10      |  Mirhan          |   20             |   30                |
+| 3.A  | 18.10      |  Mirhan          |    45           |      45             |
+| 4.A  |  18.10     |  Mirhan          |    60           |        60           |
+| 5.A  |  25.10     |   Lukas        |     45          |        50           |
+| 6.A  |  25.10     |  Mirhan          |    45           |      55             |
+| 7.A  |  25.10     |  Mirhan          |    45           |      45             |
+| 8.A  |  25.10     |   Mirhan         |    50           |      50             |
+| 9.A  |  25.10     |   Mirhan         |   50            |     45              |
+| 10.A  | 25.10      |  Lukas         |    45           |      55             |
+|10.B    |25.10|    |   Lukas         |     45             |    60        |
+| 11.A  | 1.11      |  Lukas         |     45          |       45            |
+| 12.A  | 1.11      |   Mirhan        |    45           |        45           |
+| 13.A  | 1.11      |  Lukas         |     45          |         40          |
+|14.A|1.11          | Lukas         |        45        |       55           |
+| 14.B  | 1.11      |  Lukas         |    60           |       70            |
+| 15.A | 1.11      |    Lukas       |    45           |       55            |
+| 16.A  | 1.11      |   Lukas        |    45           |       55            |
+| 17A  | 1.11      |  Lukas/Mirhan         |    120           |       180      |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
