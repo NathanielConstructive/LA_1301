@@ -104,12 +104,12 @@ Ich und Lukas haben uns entschieden ein Platformer zu programmieren mithilfe von
 | 8.A  |  25.10     |   Mirhan         |    50           |      50             |
 | 9.A  |  25.10     |   Mirhan         |   50            |     45              |
 | 10.A  | 25.10      |  Lukas         |    45           |      55             |
-|10.B    |25.10    |   Lukas         |     45             |    60        |
+|10.B    |25.10    |   Lukas         |     45             |    60   Angefangen     |
 | 11.A  | 1.11      |  Lukas         |     45          |       45            |
 | 12.A  | 1.11      |   Mirhan        |    45           |        45           |
 | 13.A  | 1.11      |  Lukas         |     45          |         40          |
-|14.A|1.11          | Lukas         |        45        |       55           |
-| 14.B  | 1.11      |  Lukas         |    60           |       70            |
+|14.A|1.11          | Lukas         |        45        |       55    Angefangen       |
+| 14.B  | 1.11      |  Lukas         |    60           |       70    Angefangen        |
 | 15.A | 1.11      |    Lukas       |    45           |       55            |
 | 16.A  | 1.11      |   Lukas        |    45           |       55            |
 | 17A  | 1.11      |  Lukas/Mirhan         |    120           |       180      |
