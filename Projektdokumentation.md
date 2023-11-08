@@ -105,14 +105,24 @@ Total:
 
 ## 5 Kontrollieren
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum | Resultat | Tester | Testumgebung|
+| ---- | ----- | -------- | ------ | -------|
+| 1.1  | 1.11.23 | funktioniert         |  Lukas      | Klassenzimmer|
+| 2.1  | 1.11.23 | funktioniert         |  Lukas      | Klassenzimmer|
+| 3.1  | 1.11.23 | funktioniert nicht       |  Lukas      | Klassenzimmer|
+| 4.1  | 1.11.23 | korrekt         |  Lukas      | Klassenzimmer|
+| 5.1  | 1.11.23 | funktioniert         |  Lukas      | Klassenzimmer|
+| 6.1  | 1.11.23 | korrekt         |  Lukas      | Klassenzimmer|
+| 7.1  | 1.11.23 | funktioniert         |  Lukas      | Klassenzimmer|
+| 8.1  | 1.11.23 | nicht vorhanden      |  Lukas      | Klassenzimmer|
+| 9.1  | 1.11.23 | funktioniert nicht         |  Lukas      | Klassenzimmer|
+| 10.1  | 1.11.23 | funktioniert         |  Lukas      | Klassenzimmer|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-## 6 Auswerten
+## Fazit
+Wir sind sehr zufrieden mit unserem Projekt, jedoch konnten wir nicht alles umsetzen, da wir uns zuerst mit Unity vertraut machen mussten. Jedoch würden wir sagen, dass unser Spiel spielbar ist auch wenn es nicht 100% fertig ist.
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
+
+
 
