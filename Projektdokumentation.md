@@ -79,15 +79,16 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | 13  | 1.11      | Lukas          | Restart Knopf, falls man stirbt             | 45min              |
 |14.A|1.11 | Lukas | Granaten Skript hinzufügen| 45min| 
 |14.B|1.11 | Lukas | Skript für das Werfen der Granate erstellen| 60min| 
-|15.A|1.11| Lukas| Sprintfunktion erstellen| 45|
-|16.A|1.11| Lukas| Doublejumpfunktion erstellen|45|
+|15.A|1.11| Lukas| Sprintfunktion erstellen| 45 min|
+|16.A|1.11| Lukas| Doublejumpfunktion erstellen|45 min|
+|17|1.11/08.11|Mirhan & Lukas|Portfolioeintrag|120 min|
 
-Total: 14
+Total: 18
 
 ## 3 Entscheiden
 
-Ich und Lukas haben uns entschieden ein Platformer spiel zu programmieren mithilfe von Unity. Dort kann man Gegner mit einer Waffe erledigen und Münzen einsammeln. 
-Damit man die Gegner nicht einfach so erledigen kann, haben wir uns für Randfeatures entschieden
+Ich und Lukas haben uns entschieden ein Platformer zu programmieren mithilfe von Unity. Dort kann man Gegner mit einer Waffe erledigen und Münzen einsammeln. 
+Damit man die Gegner nicht einfach so erledigen kann, haben wir uns für Randfeatures entschieden, wie zum Beispiel Spikes, die uns eliminieren oder Gegner
 
 ## 4 Realisieren
 
