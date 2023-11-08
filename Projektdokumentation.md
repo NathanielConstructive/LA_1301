@@ -88,7 +88,7 @@ Total: 18
 ## 3 Entscheiden
 
 Ich und Lukas haben uns entschieden ein Platformer zu programmieren mithilfe von Unity. Dort kann man Gegner mit einer Waffe erledigen und Münzen einsammeln. 
-Damit man die Gegner nicht einfach so erledigen kann, haben wir uns für Randfeatures entschieden, wie zum Beispiel Spikes, die uns eliminieren oder Gegner
+Damit man die Gegner nicht einfach so erledigen kann, haben wir uns für Randfeatures entschieden, wie zum Beispiel Spikes, die uns eliminieren. Man soll das Ende erreichen, was sich ganz rechts befindet. Falls man dabei eliminiert wird, haben wir uns entschieden einen Knopf einzufügen, der das Spiel neustartet. Im Spiel selber gibt es Gegner, die dich beim Berühren eliminiert, Spikes die das selbe machen und Münzen die sammelbar sind. Zur Verteidigung steht eine Waffe mit 10 Schüssen zur Verfügung, die durch Munitionsboxen wiederaufgefüllt werden kann.
 
 ## 4 Realisieren
 
