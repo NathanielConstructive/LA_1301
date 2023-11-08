@@ -14,10 +14,8 @@
 
 In unserem Projekt programmieren wir in Unity ein 2D Spiel, welches verschiedene Levels hat.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
 
-Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese zugreiffen kann, beziehungsweise spielen kann.
-
+Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese zugreiffen kann, beziehungsweise spielen kann. Ausserdem möchten wir uns mit Unity vertraut machen, und ein kleines Spiel erstellten und wir möchten unsere Programmierfähigkeiten weiter ausbauen.
 
 ### 1.2 User Stories
 
@@ -50,9 +48,9 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 |9.1|Verschiedene Levels|Mit linker Maustaste auswählen|Das Spiel startet|
 |10.1|Waffe im Spiel|Linke Maustaste(Schiessen oder schlagen)|Ein Projektil wird geschossen oder der Charakter schlägt|
 
-### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
+
 
 ## 2 Planen
 
