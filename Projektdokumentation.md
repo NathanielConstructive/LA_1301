@@ -31,6 +31,9 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 |8|kann|Qualität|Als Spieler möchte ich mit den Münzen etwas kaufen können, damit das Spiel nicht langweilig wird und dass das Geld einen Nutzen hat. |
 |9|muss|Funktional|Als Spieler möchte ich verschiedene Levels spielen können, damit das Spiel nicht immer gleich ist.|
 |10|muss|Funktional|Als Spieler möchte ich Waffen verwenden (mind. 2), damit ich die Gegner besiegen kann.|
+|11|kann|Funktional|Als Spieler möchte ich eine Ammobox, damit ich wieder mit meiner Waffe schiessen kann.|
+|12|kann|Qualität|Als Spieler möchte ich mich in die Richtung drehen, wo auch immer ich schaue, damit ich |
+|13|muss|Funktional|Als Spieler möchte ich einen Restart Knopf, falls ich tot bin, da ich dann das Spiel nochmals spielen möchte.|
 
 
 ### 1.3 Testfälle
@@ -57,36 +60,21 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |18.10       | Mirhan          | Skript für den Player, damit man ihn bewegen kann.             | 60             |
-| 2.A  |18.10       | Lukas          | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt             | 20min              |
+| 2.A  |18.10       | Mirhan          | Skript, damit die Kamera nicht statisch ist sondern sich mit dem Spieler mit bewegt             | 20min              |
 | 3.A  |18.10      |Lukas           |Skript um Münzen einzusammeln.              | 45min              |
-| 7.A  |18.10      | Lukas          |  Animationen hinzufügen            | 45min              |
 | 4.A  |18.10       |  Mirhan         | Gegner für das Spiel erstellen             | 60min              |
 | 5.A  |25.10      |Lukas           | Funktion, damit der Spieler Schaden erleiden kann wie auch sterben.             | 45min              |
 | 6.A  |25.10       | Mirhan          |   Hindernisse hinzufügen           | 45min              |
+| 7.A  |25.10      | Mirhan          |  Animationen hinzufügen            | 45min              |
+|8.A|25.10|Lukas|Kaufsystem|50 Minuten|
+|9.A|25.10|Mirhan|Verschiedene Levels|50 Minuten|
 | 10.A  |25.10       |  Lukas         | Waffe 1 erstellen             | 45min              |
 | 10.B  | 25.10      | Lukas          | Waffe 2 erstellen             | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
-| 1.A  |       |           |              | 45min              |
+| 11  | 1.11      | Lukas          |   Ammobox programmieren           | 45min              |
+| 12 | 1.11      | Mirhan          | In die Richtung drehen, wo man hinlauft             | 45min              |
+| 13  | 1.11      | Lukas          | Restart Knopf, falls man stirbt             | 45min              |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 14
 
 ## 3 Entscheiden
 
