@@ -71,13 +71,13 @@ Wir möchten lernen, wie man verschiedene Levels erstellt und wie man auf diese 
 | 5.A  |25.10      |Lukas           | Funktion, damit der Spieler Schaden erleiden kann wie auch sterben.             | 45min              |
 | 6.A  |25.10       | Mirhan         |   Hindernisse hinzufügen           | 45min              |
 | 7.A  |25.10      | Mirhan          |  Animationen hinzufügen            | 45min              |
-|8.A|25.10|Mirhan|Kaufsystem|50 Minuten|
+|8.A|25.10|Lukas|Kaufsystem|50 Minuten|
 |9.A|25.10|Mirhan|Verschiedene Levels|50 Minuten|
 | 10.A  |25.10       |  Lukas         | Waffe 1 erstellen             | 45min              |
 | 10.B  | 25.10      | Lukas          | Waffe 2 erstellen             | 45min              |
 | 11  | 1.11      | Lukas          |   Ammobox programmieren           | 45min              |
 | 12 | 1.11      | Mirhan          | In die Richtung drehen, wo man hinlauft             | 45min              |
-| 13  | 1.11      | Lukas          | Restart Knopf, falls man stirbt             | 45min              |
+| 13  | 1.11      | Mirhan          | Restart Knopf, falls man stirbt             | 45min              |
 |14.A|1.11 | Lukas | Granaten Skript hinzufügen| 45min| 
 |14.B|1.11 | Lukas | Skript für das Werfen der Granate erstellen| 60min| 
 |15.A|1.11| Lukas| Sprintfunktion erstellen| 45 min|
